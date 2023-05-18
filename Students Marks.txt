@@ -1,0 +1,19 @@
+======= Students Marksheet========
+
+Students id: sita 
+The total marks of English is: 98 
+The total marks of Nepali is: 65 
+The total marks of maths is: 79 
+The total marks of Science is: 98 
+The total marks of Social is: 87 
+The total marks is 427 
+The percentage is 85.4======= Students Marksheet========
+
+Students id: ram 
+The total marks of English is: 98 
+The total marks of Nepali is: 98 
+The total marks of maths is: 98 
+The total marks of Science is: 98 
+The total marks of Social is: 98 
+The total marks is 490 
+The percentage is 98.0

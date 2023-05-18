@@ -1,0 +1,10 @@
+======= Students Marksheet========
+
+Students id: Ram 
+The total marks of English is: 67 
+The total marks of Nepali is: 76 
+The total marks of maths is: 78 
+The total marks of Science is: 87 
+The total marks of Social is: 89 
+The total marks is 397
+ The percentage is 79.4
